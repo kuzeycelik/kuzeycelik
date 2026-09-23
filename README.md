@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://kuzeycelik-git.github.io"><img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=ffffff"></a>
-  <a href="https://x.com/viperadn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ffffff"></a>
+  <a href="https://x.com/kuzeycelik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ffffff"></a>
   <a href="https://linkedin.com/in/kuzeycelik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
   <a href="https://instagram.com/kuzeycelik"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff"></a>
   <a href="mailto:kuzeycelik@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
