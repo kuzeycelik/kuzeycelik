@@ -1,15 +1,15 @@
 <h1 align="center">Hey, I'm Kuzey</h1>
 
 <p align="center">
-  Software engineer from New Delhi, India — I reverse-engineer things and build software that solves real-world problems.
+  Software engineer from Berlin, Germany — I reverse-engineer things and build software that solves real-world problems.
 </p>
 
 <p align="center">
-  <a href="https://viperadnan-git.github.io"><img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=ffffff"></a>
+  <a href="https://kuzeycelik-git.github.io"><img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=ffffff"></a>
   <a href="https://x.com/viperadn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ffffff"></a>
-  <a href="https://linkedin.com/in/viperadnan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
-  <a href="https://instagram.com/viperadnan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff"></a>
-  <a href="mailto:viperadnan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
+  <a href="https://linkedin.com/in/kuzeycelik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
+  <a href="https://instagram.com/kuzeycelik"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff"></a>
+  <a href="mailto:kuzeycelik@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 </p>
 
 ### About
@@ -76,5 +76,5 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=ffffff)
 
 <p align="center">
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fviperadnan-git&label=Profile%20Views&icon=people-fill&color=%23333333&message=&style=for-the-badge&tz=UTC" height="28">
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fkuzeycelik-git&label=Profile%20Views&icon=people-fill&color=%23333333&message=&style=for-the-badge&tz=UTC" height="28">
 </p>
